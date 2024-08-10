@@ -1,0 +1,1 @@
+The code I've written effectively calculates the maximum number of diet sodas a dieter can safely consume without reaching the lethal dose of artificial sweetener, based on data from a laboratory mouse.
